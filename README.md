@@ -96,3 +96,4 @@ For questions or feedback:
 
 - Email: support@mahaapp.com
 - GitHub Issues: [Submit an issue](https://github.com/yourusername/MAHA/issues)
+- 
